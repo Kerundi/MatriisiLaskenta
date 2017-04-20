@@ -1,3 +1,5 @@
 # MatriisiLaskenta
-Muutama matriisilaskennan toiminto
-Kieliteknisen ongelman vuoksi vaihdetaan toteutuskieli
+Tällä hetkellä tuetut laskut:
+Matriisien kertominen
+Matriisien yhteenlasku
+Vakiolla kertominen
