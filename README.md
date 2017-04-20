@@ -1,5 +1,5 @@
 # MatriisiLaskenta
-Tällä hetkellä tuetut laskut:
+Tällä hetkellä tuetut:
 Matriisien kertominen
 Matriisien yhteenlasku
 Vakiolla kertominen
